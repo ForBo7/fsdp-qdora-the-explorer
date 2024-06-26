@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "fsdp-qdora-the-explorer"
+  site-url: "https://ForBo7.github.io/fsdp-qdora-the-explorer"
+  description: "A wrapper for Answer.AI's FSDP QDoRA training script."
+  repo-branch: main
+  repo-url: "https://github.com/ForBo7/fsdp-qdora-the-explorer"
