@@ -5,6 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://ForBo7.github.io',
                 'git_url': 'https://github.com/ForBo7/fsdp-qdora-the-explorer',
                 'lib_path': 'fsdp_qdora_the_explorer'},
-  'syms': { 'fsdp_qdora_the_explorer.core': { 'fsdp_qdora_the_explorer.core.main': ('core.html#main', 'fsdp_qdora_the_explorer/core.py'),
-                                              'fsdp_qdora_the_explorer.core.settings': ( 'core.html#settings',
-                                                                                         'fsdp_qdora_the_explorer/core.py')}}}
+  'syms': {'fsdp_qdora_the_explorer.core': {}}}
